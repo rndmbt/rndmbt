@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @rndmbt
 - 👀 I’m interested in graphics, automation and simulation
 - 🌱 I’m currently learning Java GUI hassles with OpenGL
-- 💞️ I’m looking to collaborate on nothing public right now
-- 📫 How to reach me ... really ... don't
